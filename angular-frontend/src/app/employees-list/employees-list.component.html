@@ -1,0 +1,29 @@
+<h2>Employee List</h2>
+
+<table class="table table-striped">
+  <thead>
+    <tr>
+      <th scope="col">#</th>
+      <th scope="col">First Name</th>
+      <th scope="col">Last Name</th>
+      <th scope="col">Email</th>
+      <th scope="col">Gender</th>
+    </tr>
+  </thead>
+  <tbody>
+
+
+
+    @for(employee of employees; track employee.id){
+    <tr>
+      <th scope="row">{{employee.id}}</th>
+      <td>{{employee.firstName}}</td>
+      <td>{{employee.lastName}}</td>
+      <td>{{employee.emailId}}</td>
+      <td>{{employee.gender}}</td>
+    </tr>
+    }
+
+
+  </tbody>
+</table>
