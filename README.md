@@ -41,4 +41,6 @@ origin https://github.com/pramodboda/employee-management-system.git (push)
 
 ### Open project files in VS Code
 
+```terminal
 D:\pkb\java_fullstack_projects\employee-management-system>code .
+```
