@@ -18,13 +18,19 @@ Simple Employee Management System CRUD using Angular + Spring Boot - Java Full S
 
 ### Clone the project for testing local or further development
 
-`git clone https://github.com/pramodboda/employee-management-system.git`
+```terminal
+git clone https://github.com/pramodboda/employee-management-system.git
+```
 
-### Check the git remote exist or not
+### Check the git remote is exist or not
 
-`cd employee-management-system`
+```terminal
+cd employee-management-system
+```
 
-`git remote -v`
+```terminal
+git remote -v
+```
 
 you can see the below following remote links
 
