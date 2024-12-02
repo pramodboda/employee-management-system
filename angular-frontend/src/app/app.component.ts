@@ -7,7 +7,7 @@ import { EmployeesListComponent } from './employees-list/employees-list.componen
   standalone: true,
   imports: [RouterOutlet, EmployeesListComponent],
   templateUrl: './app.component.html',
-  styleUrls: ['./app.component.css']
+  styleUrls: ['./app.component.css'],
 })
 export class AppComponent {
   title = 'angular-frontend';
