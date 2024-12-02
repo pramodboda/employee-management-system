@@ -5,7 +5,7 @@ Simple Employee Management System CRUD using Angular + Spring Boot - Java Full S
 ## Frontend Development
 
 - Angular - v18
-- Bootstrap
+- Bootstrap - v5
 
 ## Backend Development: Programming languages and Framework for server-side programming
 
